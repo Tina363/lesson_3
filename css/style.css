@@ -1,0 +1,42 @@
+@import "null.css";
+
+#title {
+  color: rgb(50, 14, 83);
+}
+span {
+  color: brown;
+}
+.list .link {
+  color: brown;
+}
+.link {
+  color: darkgreen;
+}
+.link.up {
+  color: rgb(177, 207, 177);
+}
+[class*="subtitle"] {
+  color: brown;
+}
+.block span {
+  color: coral;
+}
+.text .span {
+  color: rgb(13, 128, 128);
+}
+.footer > span {
+  color: black;
+}
+.footer > div > span {
+  color: black;
+}
+.link + h2 {
+  color: crimson;
+}
+
+
+
+
+
+
+
